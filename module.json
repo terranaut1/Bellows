@@ -24,10 +24,10 @@
   "templates": [
     "./templates/import-youtube-playlist.html"
   ],
-  "url": "https://github.com/casualchameleon/Bellows",
-  "manifest": "https://raw.githubusercontent.com/casualchameleon/Bellows/master/module.json",
-  "download": "https://github.com/casualchameleon/Bellows/releases/download/0.3.2/bellows_0.3.2.zip",
-  "license": "https://github.com/casualchameleon/Bellows/blob/master/LICENSE",
+  "url": "https://github.com/terranaut1/Bellows",
+  "manifest": "https://raw.githubusercontent.com/terranaut1/Bellows/master/module.json",
+  "download": "https://github.com/terranaut1/Bellows/releases/download/0.3.2/bellows_0.3.2.zip",
+  "license": "https://github.com/terranaut1/Bellows/blob/master/LICENSE",
   "socket": true,
   "debugBuildDirectory": "D:\\Documents\\FoundryVTT\\Data\\modules",
   "packageItems": [
